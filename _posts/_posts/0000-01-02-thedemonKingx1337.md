@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-poda
+yoyo
 Use the left arrow to go back!
